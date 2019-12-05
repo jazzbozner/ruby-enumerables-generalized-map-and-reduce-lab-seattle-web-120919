@@ -10,7 +10,7 @@ end
 
 def reduce(array, sv = nil)
   if sv 
-    num1 = sv
+    sum = sv
     counter = 0
   else
     num1 = array[0]
